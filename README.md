@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" />
+## <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web
 
 </div>  
   
