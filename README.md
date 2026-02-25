@@ -2,7 +2,7 @@
 <!--PAGINAS WEB-->
 
 <div align="center">
-<img src="./doc/assets/img/websites.jpg" >
+<img src="./doc/assets/img/webSites.jpg" >
 </div>
 
 <br>
