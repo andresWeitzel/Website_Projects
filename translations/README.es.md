@@ -47,7 +47,7 @@ Repositorio central de proyectos web enfocados en diseño responsive, usabilidad
 
 #### 🗂️ Proyectos
 
-* [Sitio Web de Tests IT ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#sitio-web-de-tests-it)
+* [IT Test — Plataforma de Test de Conocimientos IT ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#it-test--plataforma-de-test-de-conocimientos-it)
 
   <div align="left">
     <img width="24" height="24" src="../doc/assets/icons/frontend/png/html.png" />
@@ -85,12 +85,12 @@ Repositorio central de proyectos web enfocados en diseño responsive, usabilidad
 
 <br>
 
-<!------START Sitio_Web_Tests_IT------>
+<!------START IT_Test_Knowledge_Platform------>
 
 <div align="center">
   
-<a id="sitio-web-de-tests-it"></a>
-### Sitio Web de Tests IT ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#index)
+<a id="it-test--plataforma-de-test-de-conocimientos-it"></a>
+### IT Test — Plataforma de Test de Conocimientos IT ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#index)
 
   
 <a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
@@ -117,7 +117,7 @@ Repositorio central de proyectos web enfocados en diseño responsive, usabilidad
   </a>
 </div>
    
-<!------END Sitio_Web_Tests_IT------->
+<!------END IT_Test_Knowledge_Platform------->
 
 <br>
 <br>
