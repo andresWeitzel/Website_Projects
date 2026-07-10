@@ -51,22 +51,22 @@ Repositorio central de proyectos web enfocados en diseño responsive, usabilidad
 
   <div align="left">
     <img width="24" height="24" src="../doc/assets/icons/frontend/png/html.png" />
-    <img width="20" height="20" src="../doc/assets/icons/frontend/png/css.png" />
-    <img width="20" height="20" src="../doc/assets/icons/frontend/png/bootstrap.png" />
-    <img width="20" height="20" src="../doc/assets/icons/frontend/png/js.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/vsc.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/heroku.png" />
+    <img width="24" height="24" src="../doc/assets/icons/frontend/png/css.png" />
+    <img width="24" height="24" src="../doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="24" height="24" src="../doc/assets/icons/frontend/png/js.png" />
+    <img width="24" height="24" src="../doc/assets/icons/devops/png/vsc.png" />
+    <img width="24" height="24" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="24" height="24" src="../doc/assets/icons/devops/png/heroku.png" />
   </div>
 
 * [Sitio Web de Robótica ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#sitio-web-de-robotica)
 
   <div align="left">
     <img width="24" height="24" src="../doc/assets/icons/frontend/png/html.png" />
-    <img width="20" height="20" src="../doc/assets/icons/frontend/png/css.png" />
-    <img width="20" height="20" src="../doc/assets/icons/frontend/png/bootstrap.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/vsc.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="24" height="24" src="../doc/assets/icons/frontend/png/css.png" />
+    <img width="24" height="24" src="../doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="24" height="24" src="../doc/assets/icons/devops/png/vsc.png" />
+    <img width="24" height="24" src="../doc/assets/icons/devops/png/git.png" />
   </div>
 
 <br>
