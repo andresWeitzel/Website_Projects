@@ -47,16 +47,6 @@ Repositorio central de proyectos web enfocados en diseño responsive, usabilidad
 
 #### 🗂️ Proyectos
 
-* [Sitio Web de Robótica ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#sitio-web-de-robotica)
-
-  <div align="left">
-    <img width="24" height="24" src="../doc/assets/icons/frontend/png/html.png" />
-    <img width="20" height="20" src="../doc/assets/icons/frontend/png/css.png" />
-    <img width="20" height="20" src="../doc/assets/icons/frontend/png/bootstrap.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/vsc.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
-  </div>
-
 * [Sitio Web de Tests IT ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#sitio-web-de-tests-it)
 
   <div align="left">
@@ -67,6 +57,16 @@ Repositorio central de proyectos web enfocados en diseño responsive, usabilidad
     <img width="20" height="20" src="../doc/assets/icons/devops/png/vsc.png" />
     <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
     <img width="20" height="20" src="../doc/assets/icons/devops/png/heroku.png" />
+  </div>
+
+* [Sitio Web de Robótica ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#sitio-web-de-robotica)
+
+  <div align="left">
+    <img width="24" height="24" src="../doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
   </div>
 
 <br>
@@ -83,6 +83,47 @@ Repositorio central de proyectos web enfocados en diseño responsive, usabilidad
 
 </div>
 
+<br>
+
+<!------START Sitio_Web_Tests_IT------>
+
+<div align="center">
+  
+<a id="sitio-web-de-tests-it"></a>
+### Sitio Web de Tests IT ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#index)
+
+  
+<a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
+  <img src="../doc/assets/img/projects/home_readme.png" >
+</a>
+
+  <div align="right">
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/css.png" />
+    <img width="18" height="18" src="../doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="24" height="18" src="../doc/assets/icons/frontend/png/js.png" />
+    <img width="24" height="24" src="../doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/heroku.png" />
+  </div>
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+   
+<!------END Sitio_Web_Tests_IT------->
+
+<br>
+<br>
+<br> 
+<br>
+<br> 
 <br>
 
 <!------START Sitio_Web_Robotica------>
@@ -116,47 +157,6 @@ Repositorio central de proyectos web enfocados en diseño responsive, usabilidad
 </div>
    
 <!------END Sitio_Web_Robotica------->
-
-<br>
-<br>
-<br> 
-<br>
-<br> 
-<br>
-
-<!------START Sitio_Web_Tests_IT------>
-
-<div align="center">
-  
-<a id="sitio-web-de-tests-it"></a>
-### Sitio Web de Tests IT ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#index)
-
-  
-<a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
-  <img src="../doc/assets/img/projects/TestIT.png" >
-</a>
-
-  <div align="right">
-    <img width="20" height="20" src="../doc/assets/icons/frontend/png/html.png" />
-    <img width="20" height="20" src="../doc/assets/icons/frontend/png/css.png" />
-    <img width="18" height="18" src="../doc/assets/icons/frontend/png/bootstrap.png" />
-    <img width="24" height="18" src="../doc/assets/icons/frontend/png/js.png" />
-    <img width="24" height="24" src="../doc/assets/icons/devops/png/vsc.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/heroku.png" />
-  </div>
-
-<br>
-
- ### Detalles
-
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
-  </a>
-</div>
-   
-<!------END Sitio_Web_Tests_IT------->
 
 <br>
 <br>

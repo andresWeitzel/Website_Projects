@@ -48,16 +48,6 @@ Central repository for website projects focused on responsive design, usability,
 
 #### 🗂️ Projects
 
-* [Robotics Website ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#robotics-website)
-
-  <div align="left">
-    <img width="24" height="24" src="doc/assets/icons/frontend/png/html.png" />
-    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
-    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
-    <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
-    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
-  </div>
-
 * [IT Tests Website ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#it-tests-website)
 
   <div align="left">
@@ -68,6 +58,16 @@ Central repository for website projects focused on responsive design, usability,
     <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
     <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
     <img width="20" height="20" src="doc/assets/icons/devops/png/heroku.png" />
+  </div>
+
+* [Robotics Website ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#robotics-website)
+
+  <div align="left">
+    <img width="24" height="24" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
   </div>
 
 <br>
@@ -84,6 +84,47 @@ Central repository for website projects focused on responsive design, usability,
 
 </div>
 
+<br>
+
+<!------START IT_Tests_Website------>
+
+<div align="center">
+  
+<a id="it-tests-website"></a>
+### IT Tests Website ![status-completed](./doc/assets/icons/badges/status-completed.svg) [🔝](#index)
+
+  
+<a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
+  <img src="./doc/assets/img/projects/home_readme.png" >
+</a>
+
+  <div align="right">
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="18" height="18" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="24" height="18" src="doc/assets/icons/frontend/png/js.png" />
+    <img width="24" height="24" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/heroku.png" />
+  </div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+   
+<!------END IT_Tests_Website------->
+
+<br>
+<br>
+<br> 
+<br>
+<br> 
 <br>
 
 <!------START Robotics_Website------>
@@ -117,47 +158,6 @@ Central repository for website projects focused on responsive design, usability,
 </div>
    
 <!------END Robotics_Website------->
-
-<br>
-<br>
-<br> 
-<br>
-<br> 
-<br>
-
-<!------START IT_Tests_Website------>
-
-<div align="center">
-  
-<a id="it-tests-website"></a>
-### IT Tests Website ![status-completed](./doc/assets/icons/badges/status-completed.svg) [🔝](#index)
-
-  
-<a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
-  <img src="./doc/assets/img/projects/TestIT.png" >
-</a>
-
-  <div align="right">
-    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
-    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
-    <img width="18" height="18" src="doc/assets/icons/frontend/png/bootstrap.png" />
-    <img width="24" height="18" src="doc/assets/icons/frontend/png/js.png" />
-    <img width="24" height="24" src="doc/assets/icons/devops/png/vsc.png" />
-    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
-    <img width="20" height="20" src="doc/assets/icons/devops/png/heroku.png" />
-  </div>
-
-<br>
-
- ### Details
-
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
-  </a>
-</div>
-   
-<!------END IT_Tests_Website------->
 
 <br>
 <br>
