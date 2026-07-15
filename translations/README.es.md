@@ -1,7 +1,7 @@
 <!--PAGINAS WEB-->
 
 <div align="center">
-<img src="../doc/assets/img/webSites.jpg" >
+<img src="../doc/assets/img/websites.png" >
 </div>
 
 <br>
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-##  <img width="35" height="25" src="../doc/assets/gifs/websites.gif" /> Sitios Web
+##  <img width="42" height="48" src="../doc/assets/gifs/websites.gif" /> Sitios Web
 
 </div>
 
