@@ -208,9 +208,6 @@ Central repository for website projects focused on responsive design, usability,
   <a href="https://github.com/andresWeitzel/urban-style-v2-doc" target="_blank">
     <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
-  <a href="https://advicurbanstyle.vercel.app/" target="_blank">
-    <img width="60" height="60" alt="website" src="./doc/assets/gifs/websites.gif" style="display: inline-block;" />
-  </a>
 </div>
    
 <!------END Urban_Style------->
