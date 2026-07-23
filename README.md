@@ -54,7 +54,7 @@ Central repository for website projects focused on responsive design, usability,
     <img width="24" height="24" src="doc/assets/icons/frontend/png/html.png" />
     <img width="24" height="24" src="doc/assets/icons/frontend/png/css.png" />
     <img width="24" height="24" src="doc/assets/icons/frontend/png/bootstrap.png" />
-    <img width="24" height="24" src="doc/assets/icons/frontend/png/js.png" />
+    <img width="28" height="28" src="doc/assets/icons/frontend/png/js.png" />
     <img width="24" height="24" src="doc/assets/icons/devops/png/vsc.png" />
     <img width="24" height="24" src="doc/assets/icons/devops/png/git.png" />
     <img width="24" height="24" src="doc/assets/icons/devops/png/heroku.png" />
@@ -66,6 +66,18 @@ Central repository for website projects focused on responsive design, usability,
     <img width="24" height="24" src="doc/assets/icons/frontend/png/html.png" />
     <img width="24" height="24" src="doc/assets/icons/frontend/png/css.png" />
     <img width="24" height="24" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="24" height="24" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="24" height="24" src="doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [Urban Style ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#urban-style)
+
+  <div align="left">
+    <img width="24" height="24" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="24" height="24" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="28" height="28" src="doc/assets/icons/frontend/png/js.png" />
+    <img width="24" height="24" src="doc/assets/icons/frontend/png/react-js.png" />
+    <img width="24" height="24" src="doc/assets/icons/frontend/png/nextjs.png" />
     <img width="24" height="24" src="doc/assets/icons/devops/png/vsc.png" />
     <img width="24" height="24" src="doc/assets/icons/devops/png/git.png" />
   </div>
@@ -95,14 +107,14 @@ Central repository for website projects focused on responsive design, usability,
 
   
 <a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
-  <img src="./doc/assets/img/projects/home_readme.png" >
+  <img src="./doc/assets/img/projects/it-test-website.png" >
 </a>
 
   <div align="right">
     <img width="20" height="20" src="./doc/assets/icons/frontend/png/html.png" />
     <img width="20" height="20" src="./doc/assets/icons/frontend/png/css.png" />
     <img width="18" height="18" src="./doc/assets/icons/frontend/png/bootstrap.png" />
-    <img width="24" height="18" src="./doc/assets/icons/frontend/png/js.png" />
+    <img width="28" height="28" src="./doc/assets/icons/frontend/png/js.png" />
     <img width="24" height="24" src="./doc/assets/icons/devops/png/vsc.png" />
     <img width="20" height="20" src="./doc/assets/icons/devops/png/git.png" />
     <img width="20" height="20" src="./doc/assets/icons/devops/png/heroku.png" />
@@ -136,7 +148,7 @@ Central repository for website projects focused on responsive design, usability,
 
   
 <a href="https://github.com/andresWeitzel/andresWeitzel.github.io" target="_blank">
-  <img src="./doc/assets/img/projects/SitioRobotica.png" >
+  <img src="./doc/assets/img/projects/robotic-website.png" >
 </a>
 
   <div align="right">
@@ -158,6 +170,50 @@ Central repository for website projects focused on responsive design, usability,
 </div>
    
 <!------END Robotics_Website------->
+
+<br>
+<br>
+<br> 
+<br>
+<br> 
+<br>
+
+<!------START Urban_Style------>
+
+<div align="center">
+  
+<a id="urban-style"></a>
+### Urban Style ![status-completed](./doc/assets/icons/badges/status-completed.svg) [🔝](#index)
+
+  
+<a href="https://github.com/andresWeitzel/urban-style-v2-doc" target="_blank">
+  <img src="./doc/assets/img/projects/urban-style-website.png" >
+</a>
+
+  <div align="right">
+    <img width="20" height="20" src="./doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="./doc/assets/icons/frontend/png/css.png" />
+    <img width="28" height="28" src="./doc/assets/icons/frontend/png/js.png" />
+    <img width="20" height="20" src="./doc/assets/icons/frontend/png/react-js.png" />
+    <img width="20" height="20" src="./doc/assets/icons/frontend/png/nextjs.png" />
+    <img width="24" height="24" src="./doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="./doc/assets/icons/devops/png/git.png" />
+  </div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/urban-style-v2-doc" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://advicurbanstyle.vercel.app/" target="_blank">
+    <img width="60" height="60" alt="website" src="./doc/assets/gifs/websites.gif" style="display: inline-block;" />
+  </a>
+</div>
+   
+<!------END Urban_Style------->
 
 <br>
 <br>
